@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YhLlBRgq+3YrUj0wAS+/Tmb6n+/RW3WbKrt3G2HNxqeMzyiAYtcu9n9S1onKiY9IVB0SNLwU52VBAAB7/e4M4Q==",
+  "dgSpecHash": "Aq849mE3XlvpEfpDReDzow0Xw+Oqfn/Ncd5Y07NTIu8i0aedQ6fzBK3NfKByovgzCDuvxnidxupYonbo4G3Aig==",
   "success": true,
-  "projectFilePath": "E:\\CGI-Canada\\ASP Demos\\testapp\\testapp\\testapp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dhiraj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\praveen.venkatesan\\Documents\\CGI_Academy\\Cloud\\testapp\\testapp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

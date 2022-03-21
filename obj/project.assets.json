@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dhiraj\\.nuget\\packages\\": {},
+    "C:\\Users\\praveen.venkatesan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CGI-Canada\\ASP Demos\\testapp\\testapp\\testapp.csproj",
+      "projectUniqueName": "C:\\Users\\praveen.venkatesan\\Documents\\CGI_Academy\\Cloud\\testapp\\testapp.csproj",
       "projectName": "testapp",
-      "projectPath": "E:\\CGI-Canada\\ASP Demos\\testapp\\testapp\\testapp.csproj",
-      "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-      "outputPath": "E:\\CGI-Canada\\ASP Demos\\testapp\\testapp\\obj\\",
+      "projectPath": "C:\\Users\\praveen.venkatesan\\Documents\\CGI_Academy\\Cloud\\testapp\\testapp.csproj",
+      "packagesPath": "C:\\Users\\praveen.venkatesan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\praveen.venkatesan\\Documents\\CGI_Academy\\Cloud\\testapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dhiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\praveen.venkatesan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -59,12 +59,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
